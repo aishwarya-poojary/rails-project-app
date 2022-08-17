@@ -12,5 +12,6 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
+import "bootstrap"
 import "@hotwired/turbo-rails"
 import "controllers"
